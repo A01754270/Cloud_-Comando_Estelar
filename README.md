@@ -1,2 +1,4 @@
-# Cloud Computing 
-Comando_Estelar
+# Cloud Computing - Clase 5
+Equipo: Comando_Estelar
+
+
