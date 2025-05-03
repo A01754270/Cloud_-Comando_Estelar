@@ -9,5 +9,5 @@ Este proyecto implementa Aprendizaje Federado utilizando cuatro métodos de agre
 Antes de comenzar, es necesario dividir el set de datos en folds estratificados para entrenar los modelos locales con cada fold creado.
 
 1. Fork it
-2. Corre el archivo *local_training.ipynb* para cada fold de datos creado. (Asegúrate de descargar el archivo *TheModel.py* para poder generar las arquitecturas y correrlos de manera local pero equipos separados.)
+2. Corre el archivo *local_training.ipynb* para cada fold de datos creado. (Asegúrate de descargar el archivo *TheModel.py* para poder generar las arquitecturas y córrelos de manera local pero en equipos separados.)
 3. Corre el archivo *global_model.ipynb*
